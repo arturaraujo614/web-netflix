@@ -1,0 +1,8 @@
+JS
+docs->assets->vendors->jquery.min (arquivo)
+docs->assets->owlcarousel->owl.carousel.min (arquivo)
+setup.js (depende do tema)
+
+CSS
+dist->assets->owl.carousel.min (arquivo)
+dist->assets->owl.theme.default.min (arquivo)
